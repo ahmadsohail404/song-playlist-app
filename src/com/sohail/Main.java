@@ -14,7 +14,7 @@ public class Main {
         album.addSong("Agar tum sath ho", 4.5);
         album.addSong("Tu hi yaar mera", 4.2);
         album.addSong("Khairiyat", 3.7);
-        album.addSong("Phir mohabbat", 5.2);
+        album.addSong("Phir mohabbat", 5.2);        // nice song
         albums.add(album);
 
         album = new Album("Album2", "Eminem");
